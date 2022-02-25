@@ -18,6 +18,7 @@ public class GitExercise {
         System.out.println("Your age is, " + userinput2);
 
         System.out.println("something");
+        System.out.println();
 
     }
 
