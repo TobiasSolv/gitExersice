@@ -20,6 +20,7 @@ public class GitExercise {
         System.out.println("something");
         System.out.println();
         System.out.println();
+        System.out.println();
 
     }
 
