@@ -6,7 +6,6 @@ public class GitExercise {
         String userinput;
         int userinput2;
         Scanner in = new Scanner(System.in);
-
         System.out.println("It works!");
 
         System.out.print("Enter your name: ");
